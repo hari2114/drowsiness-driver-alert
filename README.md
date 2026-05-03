@@ -62,11 +62,6 @@ If EAR < threshold for consecutive frames → **DROWSINESS ALERT ⚠️**
 ---
 
 
-Output Terminal:
-<p align="center">
-  <img src="images/demo.png" width="500"/>
-</p>
-
 ## 🚀 Setup
 
 ### 1️⃣ Install dependencies
