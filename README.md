@@ -1,11 +1,11 @@
 # 🚗 Drowsiness Driver Alert System
 
 <p align="center">
-  <img src="images/demo.png" width="500"/>
+  <img src="images/Drowsy_image.png" width="500"/>
 </p>
 
 <p align="center">
-  <img src="images/demo.png" width="500"/>
+  <img src="images/Awake_image.png" width="500"/>
 </p>
 
 Real-time drowsiness detection system using **Eye Aspect Ratio (EAR)** computed from facial landmarks.
